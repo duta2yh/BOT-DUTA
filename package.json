@@ -1,5 +1,5 @@
 {
-  "name": "BetaBOT",
+  "name": "RINI BOT",
   "version": "1.0.0",
   "description": "bot wa yang mudah untuk digunakan",
   "main": "index.js",
@@ -44,5 +44,5 @@
   "bugs": {
     "url": "https://github.com/duta2yh/BOT-DUTA/issues"
   },
-  "homepage": "https://github.com/benisadewa/BOT-DUTA#readme"
+  "homepage": "https://github.com/duta2yh/BOT-DUTA#readme"
 }
